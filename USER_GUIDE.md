@@ -20,6 +20,9 @@ Meeting Digest 是一个全功能的会议摘要应用，具有以下特性：
 
 ## 🚀 快速开始
 
+### 0. 初始化
+参考 STEPUP.md 文档
+
 ### 1. 启动应用
 ```bash
 cd /Users/phinome/Documents/code/meeting_digest
